@@ -1,7 +1,7 @@
 {
 	"name": "Udid Pro",
 	"identifier": "com.udidpro.Esing",
-	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+	"sourceURL": "https://udidpro.github.io/Esing/repo.json",
 	"apps": [{
 			"name": "iNDS",
 			"bundleIdentifier": "net.nerd.iNDS",
@@ -140,37 +140,5 @@
 				"https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
 			]
 		}
-	],
-	"news": [
-		{
-			"title": "unc0ver is now out!",
-			"identifier": "undecimus",
-			"caption": "The most advanced jailbreak tool. Tap to download.",
-			"tintColor": "101216",
-			"imageURL": "https://cdn.discordapp.com/attachments/482068798095228928/678393363590021130/unknown.png",
-			"appID": "science.xnu.undecimus",
-			"date": "2020-02-09",
-			"notify": false
-		},
-		{
-			"title": "What's New",
-			"identifier": "whatsnew",
-			"caption": "- Added Thermometer, by Ryan McLeod. Perfect for checking device throttle.\n- Added UTM, note that the screenshot is intended to be a placeholder image for now.\n\nThanks for using Burrito's AltStore.",
-			"tintColor": "018084",
-			"date": "2020-02-13",
-			"notify": false
-		},
-		{
-			"title": "Welcome to Burrito's AltStore",
-			"identifier": "connection",
-			"caption": "Release Channel: source | Version: 1.0b | Tap to visit our website.",
-			"tintColor": "FF9500",
-			"url": "https://burritosoftware.github.io/altstore",
-			"date": "2020-02-14",
-			"notify": false
-		}
-	],
-	"userInfo": {
-		"patreonAccessToken": "JLh5bpOQsPg-HIRe6FHnRAktoeeU4JT5-Xk-y7njQrM"
-	}
+	]
 }
