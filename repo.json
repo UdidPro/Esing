@@ -3,29 +3,29 @@
 	"identifier": "com.udidpro.Esing",
 	"sourceURL": "https://udidpro.github.io/Esing/repo.json",
 	"apps": [{
-			"name": "iNDS",
-			"bundleIdentifier": "net.nerd.iNDS",
-			"developerName": "iNDS Team",
-			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
-			"version": "1.10.7",
-			"versionDate": "2020-02-10",
-			"versionDescription": "Version 1.10.7 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
-			"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
-			"localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
+			"name": "Watusi",
+			"bundleIdentifier": "net.whatsapp.WhatsApp",
+			"developerName": "WhatsApp",
+			"subtitle": "The all-in-one tweak for WhatsApp Messenger!.",
+			"version": "2.21.11",
+			"versionDate": "2021-02-9",
+			"versionDescription": "Version 2.21.11 The all-in-one tweak for WhatsApp Messenger!.",
+			"downloadURL": "https://www.dropbox.com/s/4ir02o5qoszhiyn/net.whatsapp.WhatsApp_v2.21.11_watusi_1.3.18.ipa?dl=1",
+			"localizedDescription": "The all-in-one tweak for WhatsApp Messenger!",
 			"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
 			"tintColor": "FC2125",
-			"size": 857669,
+			"size": 105086278,
 			"permissions": [{
 				"type": "photos",
-				"usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
+				"usageDescription": "Allows WhatsApp to use images from your Photo Library as game artwork."
 			}],
-			"screenshotURLs": [
+			/*"screenshotURLs": [
 				"https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
 				"https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
 				"https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
 			]
         },
-		{
+		/*{
 			"name": "Provenance",
 			"bundleIdentifier": "com.provenance-emu.provenance",
 			"developerName": "Provenance Team",
@@ -139,6 +139,6 @@
 				"https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
 				"https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
 			]
-		}
+		}*/
 	]
 }
