@@ -56,5 +56,23 @@
 				"usageDescription": "The most advanced jailbreak tool. iOS 11.0 - 13.5"
 			}]
         },
+        {
+			"name": "Odyssey",
+			"bundleIdentifier": "org.coolstar.odyssey",
+			"developerName": "Odyssey",
+			"subtitle": "A new jailbreak for a new era.",
+			"version": "1.2.2",
+			"versionDate": "2020-11-24T10:00:00+08:00",
+			"versionDescription": "A new jailbreak for a new era.",
+			"downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2.2/Odyssey-1.2.2.ipa",
+			"localizedDescription": "A new jailbreak for a new era.",
+			"iconURL": "https://pbs.twimg.com/profile_images/1280028154200043521/xiD-rBS-_400x400.jpg",
+			"tintColor": "FC2125",
+			"size": 43024790,
+			"permissions": [{
+				"type": "photos",
+				"usageDescription": "A new jailbreak for a new era."
+			}]
+        },
 	]
 }
